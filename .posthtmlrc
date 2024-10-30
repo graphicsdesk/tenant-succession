@@ -7,12 +7,258 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Holding her grandmother’s floral painted urn on the concrete stoop of her childhood home, Kristina Lopez stood for a photo. As her mother flashed the bright camera light, Lopez clutched the remains of her late grandmother and stepgrandfather in both of her arms."
+          },
+          {
+            "type": "text",
+            "value": "In the background of the portrait, the first-floor apartment at 605 W. 111th St. that she shared with her grandparents in their last years of life loomed—and so did the fear of not being able to stay in her family home."
+          },
+          {
+            "type": "text",
+            "value": "Lopez’s grandmother passed away in May. Just one month later, she said, the property manager of her building asked when she would clean out the apartment: The home her family has lived in for three generations. The encounter was the beginning of a monthslong legal battle Lopez has fought against her co-op board to secure her tenant succession rights to the rent-stabilized apartment."
+          },
+          {
+            "type": "text",
+            "value": "For decades, New York state has protected tenant succession rights, allowing for a family member of a tenant of a rent-stabilized apartment who died or vacated the unit to become the leaseholder of the apartment if they have lived in the apartment for at least two years before the tenant’s departure or death."
+          },
+          {
+            "type": "text",
+            "value": "Lopez has been a permanent resident of her home for the past four years since she moved back in during the pandemic to care for her grandmother."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/45D2M6LR4REEFI33HX76WKDG2Y.JPG",
+              "caption": "In supporting her claim, Lopez has, for months, been sending documents to her co-op board to prove her residency and relationship to the home.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">Anna Federova</a> / Senior Staff Photographer"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Some residents say that Lopez’s experience is not singular. Despite a 2019 New York state housing law that further protected the right to tenant succession, making landlords no longer able to deregulate apartments, landlords often still challenge succession claims in order to receive a new tenant, if for any reason they did not like the previous tenant—which is what Lopez  believes she has been subject to. In addition, as Columbia’s presence in Morningside Heights has grown, tenants say they have found it harder to obtain their succession rights despite legal protections. Unlike other landlords, Columbia, as a nonprofit landowning institution, is permitted to convert rent-stabilized units into affiliate housing once the primary tenant dies rather than putting the unit back onto the market in its rent-stabilized status."
+          },
+          {
+            "type": "text",
+            "value": "Housing advocates say that the University’s practice has not only decreased affordable housing and gentrified the area but has also exacerbated violations of tenants’ succession rights—both in Columbia-owned units as well as those owned by other landlords."
+          },
+          {
+            "type": "text",
+            "value": "While Lopez’s building is not Columbia-owned, some of the shareholders in her building are Columbia affiliates, including a former top administrator in the University. For her, the process of supporting her claim has felt like a final effort to uproot her from her neighborhood—an area she has noticed has drastically changed as the University has expanded."
+          },
+          {
+            "type": "text",
+            "value": "<b>‘Columbia waits for the neighbors to die’</b>"
+          },
+          {
+            "type": "text",
+            "value": "Born and raised in Morningside Heights as a third-generation resident who identifies as Afro-Latina, Lopez said she is familiar with the stories of other residents of color being displaced, oftentimes by the University."
+          },
+          {
+            "type": "text",
+            "value": "“I just don’t want to be one more of those displacement stories,” Lopez said."
+          },
+          {
+            "type": "text",
+            "value": "Columbia has a long history of expansion, including the 1980s creation of East Campus and the construction of the Manhattanville campus beginning in 2009, which displaced an estimated 5,000 residents. Longtime residents say that the community sentiment has long been that the University, through any available means, gains control of rent-regulated units to convert them into affiliate housing."
+          },
+          {
+            "type": "text",
+            "value": "“That’s kind of the local perspective on things—that Columbia waits for the neighbors to die, or if they can actively evict, they will, because I have experienced that firsthand,” Dan McSweeney, SIPA ’07, consultant for the Morningside Heights Community Coalition JUST Housing Committee, said."
+          },
+          {
+            "type": "text",
+            "value": "For the past several years, McSweeney has been in a legal struggle to maintain his tenant succession rights to his rent-regulated apartment owned by Columbia. McSweeney’s family moved into the building in 1963. In 2008, a close family friend invited McSweeney to move back in."
+          },
+          {
+            "type": "text",
+            "value": "However, after the family friend suddenly passed away without the opportunity to add McSweeney to the lease as a non-traditional family member, the University began eviction proceedings. Through a court stipulation, McSweeney has received an extension on his stay, but the University has not yet granted him a permanent lease."
+          },
+          {
+            "type": "text",
+            "value": "McSweeney, along with Dave Robinson, president of MHCC, said his organization often encounters “complicated” tenant succession cases that can take years to resolve."
+          },
+          {
+            "type": "text",
+            "value": "“The housing situation in New York is very desperate. Sometimes people don’t technically qualify for succession rights, but they really deserve to stay in the home that they’ve been in for a while, and it takes an advocacy struggle to get them to stay,” Robinson said."
+          },
+          {
+            "type": "text",
+            "value": "While Robinson does not live in a Columbia-owned building, his home on 121st Street is sandwiched in between two University-owned buildings. Robinson said when he first moved in in the 1990s, the two buildings had roughly 48 units, of which 30 to 35 were occupied by non-affiliates. Now, he said, there are only around four units not occupied by affiliates in each."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia is home to many valued residents not affiliated with the university living in rent-regulated units within Columbia-owned buildings,” University spokesperson Millie Wert wrote in a statement to Spectator. “Columbia respects and adheres to New York regulations for these units as they pertain to individuals whose residency is not contingent upon an affiliation with the university.”"
+          },
+          {
+            "type": "text",
+            "value": "For native residents like Lopez and McSweeney, the decline in non-affiliate residents has created a drastically different neighborhood to the ones they remember from their childhood."
+          },
+          {
+            "type": "text",
+            "value": "“It’s not what it used to be. It’s wealthier and therefore, local culture and the things that have made this neighborhood so unique, so important, are gradually being replaced by corporate presence,” McSweeney said."
+          },
+          {
+            "type": "text",
+            "value": "Lopez said her grandmother grappled with these changes in her last years of life. After the death of her husband in 2018, Lopez said her grandmother sent an email to their landlord and property manager, expressing that “she felt like things are different.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WH2GIBYHPVGOJMNQRPY24FQDWQ.JPG",
+              "caption": "Lopez’s grandmother had lived in the unit since she immigrated to the city from the Dominican Republic decades ago.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">Anna Federova</a> / Senior Staff Photographer"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“Sometimes I reflect on that because I’m like, wow my grandma in her later years, due to the death of her husband, felt worried, and now here I am, after the death of both of them, feeling housing insecurity,” Lopez said."
+          },
+          {
+            "type": "text",
+            "value": "<b>Eviction notices, housing court, and a grieving process interrupted   </b>"
+          },
+          {
+            "type": "text",
+            "value": "Following the “unsettling” encounter with her property manager a month after her grandmother’s death, Lopez formally notified her co-op board that she would be claiming her succession rights."
+          },
+          {
+            "type": "text",
+            "value": "Soon after sending the claim, Lopez said her ability to pay her rent online, as she had been doing for the past four years, was blocked—the first sign of the difficulties to come."
+          },
+          {
+            "type": "text",
+            "value": "Nearly four months after sending the claim, Lopez received a “Notice to Quit,” the first step in a “holdover eviction,” a case a landowner brings to New York City Housing Court once they have refused to recognize the tenant as a successor."
+          },
+          {
+            "type": "text",
+            "value": "“Everyone in these two buildings was invited to my grandma’s funeral. Did I receive a letter or a knock on the door? No, what I got was my notice to quit,” Lopez said."
+          },
+          {
+            "type": "text",
+            "value": "The notice to quit, which is typical in cases involving tenant succession claims, informed Lopez that she had 10 days to vacate her unit. Lopez described the notice as an attempt to coerce her into leaving her unit and said that if she had not been aware of her legal protections, she would probably have left her home soon after receiving the notice."
+          },
+          {
+            "type": "text",
+            "value": "“If your landlord doesn’t believe you, or like many landlords do, they just try and roll the dice to sue you and see whether or not you can defend yourself and prove it in court, it is a long, difficult process, especially if you don’t have a lawyer,” Adán Soltren, supervising attorney at The Legal Aid Society, said. “So they often do it.”"
+          },
+          {
+            "type": "text",
+            "value": "McSweeney’s roughly six-year legal struggle to secure the lease to his home is continuing, as his extension expires in June 2027."
+          },
+          {
+            "type": "text",
+            "value": "As Lopez’s housing court date looms—it was previously set for Oct. 16 but recently moved to January—Lopez said she has been consumed by the anxiety and stress of the uncertainty regarding her housing situation."
+          },
+          {
+            "type": "text",
+            "value": "“I feel hungry but I also can’t stomach anything, or I have a headache, or ‘Oh, I’ve broken out in pimples, it’s so silly that all these things happen.’ I’m like, ‘What’s going on?’” Lopez said. “Oh yeah, you’re stressed. You’re dealing with something.”"
+          },
+          {
+            "type": "text",
+            "value": "For Lopez, the ongoing litigation regarding her apartment has also caused a financial burden, as she has been paying for a lawyer to represent her in housing court. The financial strain, Lopez said, has prevented her from doing things that would benefit her mental health during the tumultuous period. Lopez previously wanted to visit her family in Cuba, but now doesn’t know if she’ll go to save money."
+          },
+          {
+            "type": "text",
+            "value": "“That question of, like, should I really do this? Every little penny that I’m making I have to save right now to cover the legal costs,” Lopez said."
+          },
+          {
+            "type": "text",
+            "value": "Adding onto the anxiety, Lopez said, is the fact that her landlords aren’t a faceless institution but rather her neighbors—people she passes by in the elevator or hallway, many of whom she has known since she was a little girl growing up in the building. Lopez thinks that the board has used social media posts of hers as evidence to deny her succession claim, making her feel isolated and surveilled during the period of grief."
+          },
+          {
+            "type": "text",
+            "value": "Members of the board did not respond to Spectator’s request for comment."
+          },
+          {
+            "type": "text",
+            "value": "“Coming home, it’s always, ‘Who’s gonna be coming home at the same time?’” Lopez said. “One of the other neighbors that I tried to see if they would be supportive, she was like, ‘No.’ And that day I started crying. I just ran here in the apartment. But then I was like, ‘Girl you gotta toughen up. You’re gonna keep seeing her.’”"
+          },
+          {
+            "type": "text",
+            "value": "Since the eviction notices started rolling in, Lopez has made all of her social media accounts, a once large part of her identity, private."
+          },
+          {
+            "type": "text",
+            "value": "Lopez’s social media presence was not only an outlet to express herself but also a means through which she connected with her grandmother.  She would post videos of her grandmother under the TikTok account @yourgrandmaabuela."
+          },
+          {
+            "type": "text",
+            "value": "“One that really sent her over the edge was one where she was dying her hair herself, and her hair was like bright, atomic turquoise,” Lopez said, describing a TikTok video they had made together. “So I know Grandma’s by my side, and she definitely, in her life, always had a fighting spirit, so I tried to embody that.”"
+          },
+          {
+            "type": "text",
+            "value": "Reflecting on these moments and grieving the death of her grandmother, however, has been difficult for Lopez as she has spent the waking months after her death worrying if she will be able to remain in her home."
+          },
+          {
+            "type": "text",
+            "value": "“I do look forward to finally being able to grieve in peace and grieve in the comfort of home,” Lopez said."
+          },
+          {
+            "type": "text",
+            "value": "<b>‘Grandma knew that I would finally be ok’</b>"
+          },
+          {
+            "type": "text",
+            "value": "After receiving the holdover eviction, Lopez began working on a letter to gather support for her claim as the housing court date neared. With suggestions by Goddard Riverside, a New York City human services organization Lopez had been speaking to throughout the process, Lopez decided to publish a <a href=\"https://www.change.org/p/demand-fair-rights-and-protections-for-rent-stabilized-tenant?recruiter=640123679&recruited_by_id=a3f52d60-afbe-11e6-b4ec-952cb3ed5661&utm_source=share_petition&utm_campaign=petition_dashboard_share_modal&utm_medium=copylink\">petition</a> to gather support."
+          },
+          {
+            "type": "text",
+            "value": "Since going up on the Change.org site, the petition has garnered roughly 250 signatures. While Lopez said the petition does not significantly help her case legally, the tangible representation of the support of that many people has assured her after the past few months of isolation and anxiety."
+          },
+          {
+            "type": "text",
+            "value": "“Grandma knew that I would finally be okay. She knew that I had a community that would support me. My work is very supportive. My run club is very supportive. I had all these support systems,” Lopez said, describing the significance of the petition. “I’m pretty sure she was kinda like ‘yeah, whatever. It’s time to go in my sleep. See you later.’”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZAFNQE7RV5F4XNTHDON4ZVENDI.JPG",
+              "caption": "Since being plunged into the legal battle, Lopez has sought support and advice from community organizations and nonprofits.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">Anna Federova</a> / Senior Staff Photographer"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Along with the community support she has felt, Lopez said that the responses she has received from contacting the offices of her elected officials have made her feel even more secure during a period of housing insecurity."
+          },
+          {
+            "type": "text",
+            "value": "“[They] just reminded me that that date was going to come and go and I would still be at home,” Lopez said, describing advice she received from a representative of Manhattan Borough President Mark Levine."
+          },
+          {
+            "type": "text",
+            "value": "While Lopez said she is not looking forward to evidencing her claim in Housing Court— further proving her familial relationship to her grandmother and residence in a home where “lifetimes of memories live,” as she described it in the petition—she remains confident that her legal protections and rights will be upheld in court."
+          },
+          {
+            "type": "text",
+            "value": "“I have a sign on the back of my door and it just says, ‘This is our home. I will not be displaced.’ So that’s what I just remind myself every day, even when I’m worried about whatever request the landlord’s going to throw my way or how they’ll respond to my documents,” Lopez said. “I know that renters’ rights protect me.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Tsehai Alfred can be contacted at </i><a href=\"mailto:tsehai.alfred@columbiaspectator.com\"><i>tsehai.alfred@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/TsehaiAlfred\"><i>@TsehaiAlfred.</i></a><i> </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Her family lived in their Morningside Heights home for three generations. After the death of her grandparents, she’s fighting to keep it that way.",
+        "dek": "As Columbia’s presence has grown, housing advocates say neighboring residents often struggle for their tenant succession rights following the death of their relatives, leaving little time to grieve.",
+        "date": "October 30, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/tsehai-alfred/\">Tsehai Alfred</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BHSWJX5J4BDTTLR7EWUUAVDACU.JPG",
+        "cover_caption": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">Anna Federova</a> / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1FAHMX_KEl3sxdVIgXIHrpisCXIyPOKdzSZNiNPHnLN8/edit?usp=sharing"
       }
     }
   }
