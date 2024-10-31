@@ -110,7 +110,7 @@
             "value": {
               "width": "50%",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WH2GIBYHPVGOJMNQRPY24FQDWQ.JPG",
-              "caption": "Lopez’s grandmother had lived in the unit since she immigrated to the city from the Dominican Republic decades ago.",
+              "caption": "Lopez’s grandmother had lived in the unit since the late 1970s, after she immigrated to the city from the Dominican Republic.",
               "credit": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">Anna Federova</a> / Senior Staff Photographer"
             }
           },
@@ -238,6 +238,10 @@
           {
             "type": "text",
             "value": "“I have a sign on the back of my door and it just says, ‘This is our home. I will not be displaced.’ So that’s what I just remind myself every day, even when I’m worried about whatever request the landlord’s going to throw my way or how they’ll respond to my documents,” Lopez said. “I know that renters’ rights protect me.”"
+          },
+          {
+            "type": "<i>Correction",
+            "value": "A previous version of this article incorrectly stated that Lopez’s grandmother lived in the unit since she immigrated to the City from the Dominican Republic. Lopez’s grandmother lived in the unit since the late 1970s, after immigrating to the City from the Dominican Republic earlier. Spectator regrets this error.</i><b><i>\u000b</i></b>"
           },
           {
             "type": "text",
